@@ -1,0 +1,19 @@
+{
+  "name": "text-to-slug",
+  "version": "1.0.0",
+  "description": "A simple library to convert texto into URL-friendly slugs.",
+  "main": "text-to-slug.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aron-alvarenga/Text-to-Slug.git"
+  },
+  "author": "Aron Alvarenga",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aron-alvarenga/Text-to-Slug/issues"
+  },
+  "homepage": "https://github.com/aron-alvarenga/Text-to-Slug#readme"
+}
