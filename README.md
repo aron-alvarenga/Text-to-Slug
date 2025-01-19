@@ -58,6 +58,6 @@ git checkout -b feature-new-functionality
 
 3. Push your changes and open a pull request.
 
-### License
+## License
 
 This project is licensed under the MIT License.
