@@ -7,24 +7,21 @@ For example:
 - **Input:** `My Product 2025`
 - **Output:** `my-product-2025`
 
----
-
 ## **Features**
 
 - Removes accents and special characters.
 - Converts text to lowercase.
 - Replaces spaces with hyphens.
 
----
-
 ## **Installation**
 
 ### For Node.js:
 
 1. **Clone the repository** or copy the `text-to-slug.js` file:
-   ```bash
-   git clone https://github.com/your-username/text-to-slug.git
-   ```
+ 
+```bash
+git clone https://github.com/your-username/text-to-slug.git
+```
 2. **Import and use** it in your project:
 
 ```javascript
@@ -34,9 +31,7 @@ const slug = textToSlug("My Product 2025");
 console.log(slug); // Output: my-product-2025
 ```
 
----
-
-### For browser usage:
+## For browser usage:
 
 1. For browser usage:
 
@@ -51,11 +46,10 @@ const slug = textToSlug("My Product 2025");
 console.log(slug); // Output: my-product-2025
 ```
 
----
-
-### How to Contribute
+## How to Contribute
 
 1. Fork the project.
+
 2. Create a new branch:
 
 ```bash
@@ -63,8 +57,6 @@ git checkout -b feature-new-functionality
 ```
 
 3. Push your changes and open a pull request.
-
----
 
 ### License
 
